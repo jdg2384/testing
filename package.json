@@ -8,8 +8,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4",
-    "sinon": "^6.1.5",
-    "webpack": "^4.16.5"
+    "sinon": "^6.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,6 +19,9 @@
   "devDependencies": {
     "enzyme": "^3.4.1",
     "enzyme-adapter-react-16": "^1.2.0",
-    "karma": "^3.0.0"
+    "karma": "^3.0.0",
+    "karma-chai": "^0.1.0",
+    "karma-webpack": "^3.0.0",
+    "webpack": "^4.17.1"
   }
 }
